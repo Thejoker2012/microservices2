@@ -1,6 +1,7 @@
 package br.com.iago.learning.microservices.service;
 
 import br.com.iago.learning.microservices.model.User;
+import org.springframework.stereotype.Service;
 
 import java.util.List;
 
